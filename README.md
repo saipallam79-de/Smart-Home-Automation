@@ -9,4 +9,4 @@
 - Monitor temperature, humidity, or other sensor data
 - Mobile app integration for control
 
-**Status:** Idea / Not yet implemented
+
